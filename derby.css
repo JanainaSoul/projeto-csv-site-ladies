@@ -42,7 +42,7 @@ nav a:hover {
 }
 
 .principal {
-	background: linear-gradient(#23653f, #61308c);
+	
 	padding: 30px;
 }
 
@@ -68,18 +68,11 @@ nav a:hover {
 
 
 .jogo {
-	background: linear-gradient(#61308c, #23653f);
+	
 	
 }
 
 
-
-
-}
-
-
-
- 
 
 footer {
 	text-align: center;
@@ -100,3 +93,6 @@ footer {
 	height: 150px;
 } 
 
+
+
+/*background: linear-gradient(#61308c, #23653f);*/
