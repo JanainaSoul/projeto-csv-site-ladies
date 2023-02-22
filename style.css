@@ -168,7 +168,8 @@ td, th {
 	width: 100%;
 }
 
-.titulo-secao {
+.
+.titulo-principal {
 	text-align: center;
 	font-size: 2em;
 	margin: 0 0 1em;
@@ -178,15 +179,15 @@ td, th {
 
 }
 
-.titulo-secao:first-letter {
+.titulo-principal:first-letter {
 	font-weight: bold;
 }
 
-.titulo-secao:before {
+.titulo-principal:before {
 	content:"[ ";
 }
 
-.titulo-secao:after {
+.titulo-principal:after {
 	content: " ]";
 	
 }
@@ -195,26 +196,30 @@ p:first-line {
 	font-style: italic;
 }
 
-.secao {
+.principal {
 	padding: 3em 0;
 	background: #23653f;
 	width: 940px;
 	margin: 0 auto;
 	color: #f0f0f0
+
 }
 
-.secao p{
+.principal p {
 	margin: 0 0 1em;
-	color: #f0f0f0
+	font-size: 20px;
+	text-align: center;
+	line-height: 2;
+
 }
 
-.secao strong {
+.principal strong {
 	font-weight: bold;
 	color: #f0f0f0
 
 }
 
-.secao em {
+.principal em {
 	font-style: italic;
 	color: #f0f0f0
 }

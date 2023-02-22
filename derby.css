@@ -55,6 +55,9 @@ nav a:hover {
 
 .principal p {
 	margin: 0 0 1em;
+	font-size: 20px;
+	text-align: justify;
+	line-height: 1,5;
 }
 
 .principal strong {
@@ -66,8 +69,19 @@ nav a:hover {
 	font-style: italic;
 }
 
-
+.imagem-jogo{
+	width: 600px;
+	border-color: black;
+	display: flex;
+	flex: 0 1 700px;
+	justify-content: center;
+	
+}
+	
 .jogo {
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
 	
 	
 }
